@@ -17,11 +17,7 @@ BuildRequires: pkgconfig(notify-sharp)
 BuildRequires: intltool
 
 %description
-gbrainy is a brain teaser game and trainer written for GNOME using Mono,
-C# and Cairo. 
-
-Its mission is to provide a platform for creating different kinds of
-brain-teasers and brain trainer games for GNOME.
+Tasque is a simple task management app (TODO list) for the Linux Desktop. 
 
 %prep
 %setup -q -n%name-%version
