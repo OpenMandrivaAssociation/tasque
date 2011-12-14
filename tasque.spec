@@ -1,7 +1,7 @@
 Summary: A simple task management app (TODO list) for the Linux Desktop
 Name: tasque
 Version: 0.1.9
-Release: %mkrel 2
+Release: %mkrel 3
 Source0: http://ftp.gnome.org/pub/GNOME/sources/tasque/0.1/%{name}-%{version}.tar.gz
 License: MIT
 Group: Graphical desktop/GNOME
