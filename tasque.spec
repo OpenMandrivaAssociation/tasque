@@ -61,3 +61,20 @@ rm -fr %buildroot
 %{_iconsdir}/hicolor/*/apps/*
 %{_datadir}/pixmaps/*
 %{_datadir}/dbus-1/services/org.gnome.Tasque.service
+
+
+%changelog
+* Wed Dec 14 2011 Götz Waschk <waschk@mandriva.org> 0.1.9-3mdv2012.0
++ Revision: 740998
+- rebuild for gtk+ packaging breakage
+
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1.9-2mdv2011.0
++ Revision: 615135
+- the mass rebuild of 2010.1 packages
+
+* Wed Feb 17 2010 Funda Wang <fwang@mandriva.org> 0.1.9-1mdv2010.1
++ Revision: 507092
+- update desc
+- import tasque
+
+
