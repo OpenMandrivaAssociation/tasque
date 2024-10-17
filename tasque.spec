@@ -5,7 +5,7 @@ Release: %mkrel 3
 Source0: http://ftp.gnome.org/pub/GNOME/sources/tasque/0.1/%{name}-%{version}.tar.gz
 License: MIT
 Group: Graphical desktop/GNOME
-Url: http://live.gnome.org/Tasque
+Url: https://live.gnome.org/Tasque
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: mono-devel
 BuildRequires: pkgconfig(glade-sharp-2.0)
